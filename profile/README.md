@@ -4,7 +4,7 @@
 
 Ptyktos builds high-performance APIs for the data layer that modern AI systems are built on — ingestion, extraction, transformation, and serialization — engineered for speed, throughput, and resource efficiency that legacy tooling can't approach.
 
-A subsidiary of [TWN Group Pty Ltd](https://twn.au).
+A subsidiary of [TWN Group Pty Ltd](https://twn.systems).
 
 ---
 
