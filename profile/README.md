@@ -38,7 +38,7 @@ From the Greek *πτυκτός* — *folded, able to be folded*. Compression, de
 
 Early and moving fast. APIs and documentation are being rolled out progressively.
 
-For access, partnership, or commercial enquiries: **[hello@ptyktos.com](mailto:hello@ptyktos.com)**
+For access, partnership, or commercial enquiries: **[hello@twn.systems](mailto:hello@twn.systems)**
 
 ---
 
